@@ -1,4 +1,4 @@
-# https://deeplearningcourses.com/c/cutting-edge-artificial-intelligence
+
 from subproc_vec_env import SubprocVecEnv
 from atari_wrappers import make_atari, wrap_deepmind, Monitor
 
