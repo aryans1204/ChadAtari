@@ -1,4 +1,4 @@
-# https://deeplearningcourses.com/c/cutting-edge-artificial-intelligence
+
 import numpy as np
 from collections import deque
 import gym
