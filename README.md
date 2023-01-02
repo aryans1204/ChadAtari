@@ -1,2 +1,2 @@
 # ChadAtari
-Atari game playing agent rained using A2C Reinforcement Learning
+Atari game playing agent trained using A2C Reinforcement Learning
