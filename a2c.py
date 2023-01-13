@@ -1,4 +1,4 @@
-# https://deeplearningcourses.com/c/cutting-edge-artificial-intelligence
+
 import time
 import joblib
 import numpy as np
