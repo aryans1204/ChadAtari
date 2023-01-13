@@ -1,4 +1,4 @@
-# https://deeplearningcourses.com/c/cutting-edge-artificial-intelligence
+
 import argparse
 import os
 import numpy as np
